@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: zain7cb.github.io/al-folio/sitemap.xml
